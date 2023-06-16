@@ -1,7 +1,0 @@
-{
-    "server":"localhost",
-    "database":"thonker",
-    "username":"PyLogin",
-    "password":"123456789",
-    "driver":"{ODBC Driver 17 for SQL Server}"
-}
